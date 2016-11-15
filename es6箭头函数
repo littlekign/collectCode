@@ -1,0 +1,24 @@
+es5:
+function A(){
+  //do sth
+}
+----------------------------
+es6:
+  A(){
+  //do sth
+}
+----------------------------
+es5:
+function A(){
+  //do sth
+  function (b){
+  //do sth
+  }
+}
+----------------------------
+es6:
+function A(){
+  //do sth
+  b = > return ...
+  }
+}
